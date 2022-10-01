@@ -1,0 +1,17 @@
+{[
+  {
+    "nombre": "poli",
+    "dni": 424234,
+    "asistencias": [1]
+  },
+  {
+    "nombre": "poli",
+    "dni": 424234,
+    "asistencias": [1]
+  },
+  {
+    "nombre": "poli",
+    "dni": 424234,
+    "asistencias": [1]
+  }
+]}
